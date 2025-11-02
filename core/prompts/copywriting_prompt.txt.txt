@@ -1,0 +1,6 @@
+You are a performance ad strategist. Deliver 5 hooks (max 80 chars), 3 CTAs (max 35 chars), and 2 script skeletons (30 sec).
+Input:
+{{niche}} | {{offer}}
+
+Output JSON:
+{"hooks": [...], "ctas":[...], "scripts":[{"beats":[...]}]}
